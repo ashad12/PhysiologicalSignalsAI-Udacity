@@ -32,4 +32,11 @@ considering ECG channel would help to improve the result.
 
 As an example, the first file is analyzed. Following shows the four signals along with their FFT taken through whole signal.
 
+<figure>
+  <p align="center">
+  <img
+  src="signals.JPG"
+  alt="signals"></p>
+  <figcaption><p align="center">PPG and accelerometer raw signals and their FFT. </p></figcaption>
+</figure>
 
